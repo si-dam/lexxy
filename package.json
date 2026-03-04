@@ -1,7 +1,7 @@
 {
   "name": "@37signals/lexxy",
-  "version": "0.8.0-beta",
-  "description": "Lexxy - A modern rich text editor for Rails.",
+  "version": "0.8.0-beta-helpcrm.1",
+  "description": "Lexxy fork for HELP CRM templates editor.",
   "module": "dist/lexxy.esm.js",
   "type": "module",
   "exports": {
